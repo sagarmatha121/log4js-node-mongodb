@@ -45,7 +45,7 @@
   "dependencies": {
     "log4js": "^0.6.38",
     "lx-helpers": "^0.5.1",
-    "mongodb": "^2.2.5"
+    "mongodb": "^3.6.1"
   },
   "deprecated": false,
   "description": "A log4js-node log appender to write logs into MongoDB.",
